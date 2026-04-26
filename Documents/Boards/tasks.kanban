@@ -1,0 +1,36 @@
+{
+  "lists": [
+    {
+      "id": "be8972ec-d4ce-4108-9039-dc5049168bf7",
+      "title": "TODOs",
+      "cards": []
+    },
+    {
+      "id": "aaeec886-2fb3-4e7d-aea7-3ec15d0d8084",
+      "title": "InProgress",
+      "cards": []
+    },
+    {
+      "id": "f6261e56-1f32-4312-826a-da997277ec32",
+      "title": "Test",
+      "cards": []
+    },
+    {
+      "id": "3d649733-f62b-4f72-994c-030110582218",
+      "title": "Done",
+      "cards": []
+    },
+    {
+      "id": "b7ea8233-e450-49f2-a745-5e30ace1a75e",
+      "title": "Archived/Ignored",
+      "cards": []
+    }
+  ],
+  "archive": {
+    "lists": [],
+    "cards": []
+  },
+  "settings": {
+    "labels": []
+  }
+}
